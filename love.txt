@@ -3,3 +3,4 @@ Are you the most handsome at atguigu.
 yes
 see you tonight.
 不许搞对象。
+测试ssh连接方式
